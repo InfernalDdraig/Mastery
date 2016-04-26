@@ -1,2 +1,2 @@
-# Mastery
+# Champion Mastery
 Riot games API
