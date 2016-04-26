@@ -1,2 +1,0 @@
-# Mastery
-Riot games API
